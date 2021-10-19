@@ -10,7 +10,7 @@ The Continuous Engineering API is a modular API for the Continuous Engineering F
 [![GoDoc](https://godoc.org/github.com/ContinuousEngineeringProject/ce-api?status.svg)](https://godoc.org/github.com/ContinuousEngineeringProject/ce-api)
 [![GitHub release](https://img.shields.io/github/v/release/ContinuousEngineeringProject/ce-api?include_prereleases)](https://github.com/ContinuousEngineeringProject/ce-api/releases/latest)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://continuousengproject.slack.com)
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ContinuousEngineeringProject_ce-api&metric=alert_status)](https://sonarcloud.io/dashboard?id=ContinuousEngineeringProject_ce-api)
 
 ## Installation
 
